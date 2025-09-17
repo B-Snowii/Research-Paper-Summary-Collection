@@ -1,4 +1,5 @@
-Language 语言
+[![Language](https://img.shields.io/badge/Language-English-blue)](README.md)
+[![语言](https://img.shields.io/badge/语言-中文-red)](README.zh-CN.md)
 
 # 学术论文专业摘要生成 · 集合
 
